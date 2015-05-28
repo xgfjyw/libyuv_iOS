@@ -8,12 +8,12 @@ The static libaray(fat file) is located in ${PROJECT_DIR}/out/release/libyuv.a.
 
 Version
 -------
-Name: libyuv
-Version: 1382
-Description: libyuv is an open source project that includes YUV conversion and scaling functionality.
-
-
+－ Name: libyuv     
+－ Version: 1382     
+－ Description: libyuv is an open source project that includes YUV conversion and scaling functionality.     
+     
+     
 Build enviroment
 ----------------
-- IDE: Xocde 6.3
-- Build schemes: Release
+- IDE: Xocde 6.3     
+- Build schemes: Release     
